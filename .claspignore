@@ -1,14 +1,2 @@
-# Ignore Vite folders
-dist/
-src/
-public/
-
-# Ignore Node folders
-node_modules/
-
-# Ignore all JSON files EXCEPT appsscript.json
-*.json
+**/**
 !appsscript.json
-
-# Ignore config files
-vite.config.ts
